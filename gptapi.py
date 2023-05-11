@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import pandas as pd
 import openai
+import streamlit_chat
 # from dotenv import load_dotenv, find_dotenv
 # _ = load_dotenv(find_dotenv()) # read local .env file
 from streamlit_chat import message
